@@ -61,7 +61,4 @@ tests/
   test_core.py
 ```
 
-## Reproducibility Notes
-
-The manuscript reports simulation evidence rather than tank, lake, or field measurements. For submission, authors should keep the random seeds, parameter files, and figure-generation outputs synchronized with the final reported numbers.
 
